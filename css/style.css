@@ -404,13 +404,9 @@ hr{
   }
   #welcome .txt>h2{
     font-size:90px;
-    font-weight:bold;
-    color:#fff;
   }
   #welcome .txt>p{
     font-size:28px;
-    color:#ccc;
-    font-weight:100;
   }
   .port_list .txt_box>p:first-child{
     font-weight:500;
@@ -443,13 +439,9 @@ hr{
   }
   #welcome .txt>h2{
     font-size:70px;
-    font-weight:bold;
-    color:#fff;
   }
   #welcome .txt>p{
     font-size:24px;
-    color:#ccc;
-    font-weight:100;
   }
   .skill_list>li{
     width:50%;
