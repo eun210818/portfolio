@@ -1,7 +1,7 @@
-@charset "utf-8";
-
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
-body{font-family: 'Montserrat', sans-serif;}
+@charset 'utf-8';
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');*/
+/*body{font-family: 'Mulish', sans-serif;}*/
 
 /* reset */
 *{
@@ -124,7 +124,8 @@ hr{
   top:10px;
 }
 .mobile_wrap>.mo_closebtn>.mo_closeline>.moline{
-  width:30px;height:2px;
+  width:30px;
+  height:2px;
   background-color:#000;
   display:block;
   margin-bottom:20px;
@@ -325,6 +326,7 @@ hr{
 }
 .port_list>li{
   width:33.3333%;
+  padding:10px;
 }
 .port_list .img_box{
   background-color:#f9f9f9;
@@ -381,6 +383,7 @@ hr{
 }
 #contact .txt_box>h4{
   font-size:32px;
+  font-weight:500;
   padding-bottom:50px;
 }
 #contact .txt_box>p{

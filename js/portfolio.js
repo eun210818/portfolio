@@ -18,7 +18,7 @@ $(function(){
       }
    });
 
-     // mo_btn
+   // mo_btn
    $('.mo_openbtn').click(function(){
       $('.mobile_wrap').css('right',0);
    });
@@ -28,4 +28,5 @@ $(function(){
    $('.mo_menu').click(function(){
       $('.mobile_wrap').css('right','-300px');
    });
+    
 });
